@@ -1,0 +1,8 @@
+python3>=3.10.11
+astropy==5.0
+poliastro==0.17.0
+numpy
+matplotlib
+scipy
+spicepy
+pandas
