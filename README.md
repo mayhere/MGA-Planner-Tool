@@ -39,7 +39,7 @@ Matplotlib
 Differential Evolution optimizer
 
 **📦 Installation**
-git clone https://github.com/yourusername/mga-planner-tool
+git clone the repo
 cd mga-planner-tool
 pip install -r requirements.txt
 Ensure you have SPICE kernels (e.g., de440.bsp) downloaded.
