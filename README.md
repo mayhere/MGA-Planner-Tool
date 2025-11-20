@@ -1,6 +1,5 @@
 **# MGA Planner Tool**
 Multiple Gravity Assist Interplanetary Trajectory Planner
-
 MGA Planner Tool is a Python framework for designing and optimizing interplanetary trajectories using Multiple Gravity Assist (MGA) techniques.
 It focuses on efficient Earth → Mercury transfers and naturally extends to other inner-planet MGA sequences.
 
